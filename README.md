@@ -17,15 +17,7 @@ En el contexto de una ciudad dinámica como Buenos Aires, los siniestros viales 
 ## Tecnologías utilizadas
 
 <br><center>
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
-![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-333333?style=flat&logo=WordCloud)
-![Seaborn](https://img.shields.io/badge/Seaborn-333333?style=flat&logo=Seaborn)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter_Notebook-333333?style=flat&logo=jupyter)
-![Power BI](https://img.shields.io/badge/PowerBI-333333?style=flat&logo=powerbi)
-![DAX](https://img.shields.io/badge/-DAX-333333?style=flat&logo=powerbi)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)|![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)|![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)|![Matplotlib](https://img.shields.io/badge/Matplotlib-333333?style=flat&logo=WordCloud)|![Seaborn](https://img.shields.io/badge/Seaborn-333333?style=flat&logo=Seaborn)|![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)|![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter_Notebook-333333?style=flat&logo=jupyter)|![Power BI](https://img.shields.io/badge/PowerBI-333333?style=flat&logo=powerbi)|![DAX](https://img.shields.io/badge/-DAX-333333?style=flat&logo=powerbi)
 </center></br>
 
 ## Datos
@@ -45,12 +37,17 @@ Se realizaron los siguientes KPI
 - *Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior*.
   
   Definimos a la **tasa de homicidios en siniestros viales** como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico.
-  Su fórmula es: (Número de homicidios en siniestros viales / Población total) * 100,000
+  Su fórmula es: <center>
+$\frac{\text{Número de homicidios en siniestros viales}}{\text{Población total}} * 100000$<br><br>
+</center >
   
 - *Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior*.
   
   Definimos a la **cantidad de accidentes mortales de motociclistas en siniestros viales** como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto en un determinado periodo temporal.
-  Su fórmula para medir la evolución de los accidentes mortales con víctimas en moto es: (Número de accidentes mortales con víctimas en moto en el año anterior - Número de accidentes mortales con víctimas en moto en el año actual) / (Número de accidentes mortales con víctimas en moto en el año anterior) * 100
+  Su fórmula para medir la evolución de los accidentes mortales con víctimas en moto es: <center>
+$\frac{\text{Víctimas en moto del año anterior - Víctimas en moto del año actual}}{\text{Víctimas en moto del año anterior}}*100$<br>
+<br></center>
+
 
 
 ## Conclusiones
