@@ -17,7 +17,7 @@ En el contexto de una ciudad dinámica como Buenos Aires, los siniestros viales 
 ## Tecnologías utilizadas
 
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)|![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)|![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)|![Matplotlib](https://img.shields.io/badge/Matplotlib-333333?style=flat&logo=WordCloud)|![Seaborn](https://img.shields.io/badge/Seaborn-333333?style=flat&logo=Seaborn)|![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)|![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter_Notebook-333333?style=flat&logo=jupyter)|![Power BI](https://img.shields.io/badge/PowerBI-333333?style=flat&logo=powerbi)|![DAX](https://img.shields.io/badge/-DAX-333333?style=flat&logo=powerbi)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas) ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-333333?style=flat&logo=WordCloud) ![Seaborn](https://img.shields.io/badge/Seaborn-333333?style=flat&logo=Seaborn) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) ![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter_Notebook-333333?style=flat&logo=jupyter)  ![Power BI](https://img.shields.io/badge/PowerBI-333333?style=flat&logo=powerbi) ![DAX](https://img.shields.io/badge/-DAX-333333?style=flat&logo=powerbi)
 
 
 ## Datos
