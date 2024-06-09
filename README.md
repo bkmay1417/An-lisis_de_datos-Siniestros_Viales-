@@ -6,9 +6,9 @@
 </div>
 <p id="readme-top"></p>
 
-[Introducion](#Introducion) | [Datos](#Datos) | [Dashboard](#Dashboard) | [KPI](#KPI) | [Conclusiones](#Conclusiones) | 
+[Introducion](#Introducion) | [Datos](#Datos) | [KPI](#KPI) | [Dashboard](#Dashboard) | [Conclusiones](#Conclusiones) 
 
-![Descripción de la imagen](https://4.bp.blogspot.com/-7wb49nj_4ok/VPQesmuzrnI/AAAAAAAABH8/Q3wevmpdn7o/s1600/Imagen22.png)
+<p align="center"><img src="img/Portada.gif" alt="portada"  height="100%" width="100%" /></p>
 
 ## Introducion
 
@@ -23,12 +23,6 @@ En el contexto de una ciudad dinámica como Buenos Aires, los siniestros viales 
 ## Datos
 
 Los datos brindados fueron una hechos.csv con los datos de los acidentes desde 2016 a 2021 y lesiones.xlsx con los datos de 2019 a 2021 estos datos fueron pasados por un proceso de ETL ( extracción, transformación y carga ) y EDA ( análisis exploratorio de datos ) en  este proceso se revisaron valores nulos, outliers, duplicados se normalizaron los datos y se inputaron datos dependiendo del caso ya sea con la media o moda una vez hecho eso se procedio analizar los datos por medio de graficos para poder llegar un comprecion mas profunda   
-
-## Dashboard
-
-Este dashboard se compone de 6 pagina siendo la primera la portada y la ultima las conclusiones una con una analisis por ubicaciones en caba y otra enfocada en el analisis de la victimas luegos dos hojas para los kpi corespondientes 
-
-<p align="center"><img src="img/dash.gif" alt="dash"  height="100%" width="100%" /></p>
 
 ## KPI 
 
@@ -48,7 +42,62 @@ $\frac{\text{Número de homicidios en siniestros viales}}{\text{Población total
 $\frac{\text{Víctimas en moto del año anterior - Víctimas en moto del año actual}}{\text{Víctimas en moto del año anterior}}*100$<br>
 <br></center>
 
+## Dashboard
 
+Este dashboard de PowerBI se compone de cinco hojas, cada una enfocada en un aspecto diferente del análisis de accidentes de tránsito. A continuación, se detalla el contenido de cada una:
+
+### Hoja 1: Presentación
+- Descripción: Esta hoja actúa como la introducción al dashboard, proporcionando una visión general del análisis realizado.
+
+### Hoja 2: Análisis por Ubicación
+<p align="center"><img src="img/Dash1.gif" alt="dash"  height="100%" width="100%" /></p>
+
+Descripción: En esta hoja se presenta un análisis detallado de los accidentes por ubicación geográfica. Incluye:
+
+- Mapa de Formas: Muestra la saturación de víctimas por comuna.
+- Mapa Corapletico: Muestra los Barios por comi¿una 
+- Mapa de Puntos: Indica las ubicaciones de todos los accidentes con coordenadas X e Y.
+- Gráfico de Barras: Compara la cantidad de accidentes por comuna.
+- Gráfico de Torta: Representa los tipos de calle basados en los accidentes ocurridos.
+- Gráfico de Área: Ilustra los accidentes por fecha a lo largo de los meses.
+- Filtro por Año: Permite filtrar los datos por año específico.
+- Tarjeta: Indica el número total de accidentes.
+
+### Hoja 3: Análisis de Víctimas No Mortales
+
+<p align="center"><img src="img/Dash2.gif" alt="dash2"  height="100%" width="100%" /></p>
+
+Descripción: Esta hoja se enfoca en el análisis de víctimas no mortales, las cuales son significativamente más numerosas, llegando a 37 mil. Incluye:
+
+- Gráfico de Torta: Desglosa las víctimas por género.
+- Gráfico de Área: Muestra la cantidad de víctimas por mes.
+- Gráfico de Anillo: Representa el rango etario de las víctimas.
+- Gráfico de Barras: Compara las víctimas por franja horaria.
+- Gráfico de Barras: Mustra el top 5 de víctima mas comunes(peatón, conductor de moto, automóvil, etc.).
+- Matriz: Muestra las víctimas por día y semana del año.
+- Tarjeta: Indica el número total de víctimas no mortales.
+
+### Hoja 4: KPI de Reducción de Accidentes Mortales
+
+<p align="center"><img src="img/Dash3.gif" alt="dash3"  height="100%" width="100%" /></p>
+
+
+Descripción: Esta hoja presenta un KPI que muestra el objetivo de reducir en un 10% los accidentes mortales, basado en el primer trimestre del año. Se aplica a todos los años de los datos para verificar el cumplimiento anual. Incluye:
+
+- Tarjetas: Muestran la tasa y el número de víctimas de cada semestre.
+- KPI
+- Grafico de Barras con las variacion entre el KPI y el resultado real
+
+### Hoja 5: KPI de Reducción de Víctimas Mortales de Motos
+
+<p align="center"><img src="img/Dash4.gif" alt="dash4"  height="100%" width="100%" /></p>
+
+Descripción: En esta hoja se presenta un KPI con el objetivo de reducir en un 7% las víctimas mortales de accidentes de motos, basado en el año anterior. Incluye:
+- Tarjetas: Muestran el número de víctimas del año actual y el KPI.
+- KPI
+- Grafico de Barras con las variacion entre el KPI y el resultado real
+
+Todas las hojas del dashboard cuentan con un filtro por año para permitir un análisis detallado y específico por períodos.
 
 ## Conclusiones
 
