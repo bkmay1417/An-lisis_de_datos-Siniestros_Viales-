@@ -14,6 +14,13 @@
 
 En el contexto de una ciudad dinámica como Buenos Aires, los siniestros viales representan un desafío constante que impacta tanto en la seguridad pública como en la calidad de vida de sus habitantes. Estos eventos, que abarcan desde colisiones entre vehículos hasta atropellos de peatones, tienen repercusiones que van desde daños materiales hasta pérdidas humanas irreparables. Este proyecto se centra en el análisis de datos relacionados con siniestros viales en Buenos Aires, con el objetivo de proporcionar información detallada y perspicaz para informar políticas públicas y medidas de seguridad que contribuyan a reducir la incidencia y las consecuencias de estos incidentes. Utilizando un conjunto de datos específico que abarca los años 2016-2021, se busca profundizar en la comprensión de estos eventos y así promover un entorno vial más seguro y protegido para todos los ciudadanos.
 
+## Estructura del proyecto
+
+- Archivos: Donde se guardan los dataset utilizado para este Proyecto
+- img: Carpeta donde se guardan las imagenes utilizadas en el README
+- Notebooks: Carpeta donde se guardan los notebooks de Jupyter utilizados para el análisis (EDA)
+- README.md: Archivo de lectura que describe el proyecto
+
 ## Tecnologías utilizadas
 
 
