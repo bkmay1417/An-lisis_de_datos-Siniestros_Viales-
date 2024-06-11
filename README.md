@@ -33,6 +33,8 @@ Los datos brindados fueron una hechos.csv con los datos de los acidentes desde 2
 
 ## KPI 
 
+![KPI](https://www.culturemonkey.io/employee-engagement/content/images/2023/06/What-is-employee-engagement-kpi.png)
+
 Se realizaron los siguientes KPI
 
 - *Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior*.
@@ -115,12 +117,6 @@ Todas las hojas del dashboard cuentan con un filtro por año para permitir un an
 - La General Paz es la calle con más accidentes, y las avenidas son las más peligrosas, representando el 61.64% de los siniestros.
 
 - La disminución de los siniestros a partir de 2019, con un mínimo en 2020, esta relacionada con la pandemia de COVID-19.
-
-
-
-
-
-
 
 ## Gracias por llegar hasta aqui
 
