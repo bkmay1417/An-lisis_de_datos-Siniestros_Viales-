@@ -53,6 +53,8 @@ $\frac{\text{Víctimas en moto del año anterior - Víctimas en moto del año ac
 
 ## Dashboard
 
+![Dashboard](https://www.bizneo.com/blog/wp-content/uploads/2019/05/dashboard.jpg)
+
 Este dashboard de PowerBI se compone de cinco hojas, cada una enfocada en un aspecto diferente del análisis de accidentes de tránsito. A continuación, se detalla el contenido de cada una:
 
 ### Hoja 1: Presentación
