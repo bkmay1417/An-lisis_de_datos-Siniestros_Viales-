@@ -112,6 +112,8 @@ Todas las hojas del dashboard cuentan con un filtro por año para permitir un an
 
 ## Conclusiones
 
+<p align="center"><img src="https://0701.static.prezi.com/preview/v2/pucopnprx6biqpz3wd7sgu2fzh6jc3sachvcdoaizecfr3dnitcq_3_0.png" alt="conclucion"  height="90%" width="90%" /></p>
+
 - Los siniestros viales con patrones destacados son la hora de la mañana, la edad de 20 a 35 años y el trimestre más crítico siendo el cuarto por las fiestas.
 
 - Los motociclistas son las principales víctimas, con la comuna 1 y la zona sur de Buenos Aires registrando la mayor cantidad de accidentes.
