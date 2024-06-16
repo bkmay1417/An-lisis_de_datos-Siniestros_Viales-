@@ -122,6 +122,8 @@ Todas las hojas del dashboard cuentan con un filtro por año para permitir un an
 
 - La disminución de los siniestros a partir de 2019, con un mínimo en 2020, esta relacionada con la pandemia de COVID-19.
 
+- El día de la semana con mas siniestros el el viernes y la mayoría de los accidentes son en los cruces
+
 ## Gracias por llegar hasta aqui
 
 ![gracias](img/Animation-gracias.gif?raw=true)
