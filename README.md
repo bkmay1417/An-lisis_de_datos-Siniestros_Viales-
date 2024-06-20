@@ -29,7 +29,12 @@ En el contexto de una ciudad dinámica como Buenos Aires, los siniestros viales 
 
 ## Datos
 
-Los datos brindados fueron una hechos.csv con los datos de los acidentes desde 2016 a 2021 y lesiones.xlsx con los datos de 2019 a 2021 estos datos fueron pasados por un proceso de ETL ( extracción, transformación y carga ) y EDA ( análisis exploratorio de datos ) en  este proceso se revisaron valores nulos, outliers, duplicados se normalizaron los datos y se inputaron datos dependiendo del caso ya sea con la media o moda una vez hecho eso se procedio analizar los datos por medio de graficos para poder llegar un comprecion mas profunda   
+Los datos utilizados provienen de dos fuentes principales:
+
+- hechos.csv con datos de los accidentes desde 2016 a 2021.
+- lesiones.xlsx con datos de 2019 a 2021.
+
+Estos datos fueron procesados a través de un proceso de ETL (extracción, transformación y carga) y EDA (análisis exploratorio de datos). En este proceso se revisaron valores nulos, outliers, duplicados, se normalizaron los datos y se imputaron datos dependiendo del caso, ya sea con la media o la moda. Una vez completado esto, se procedió a analizar los datos mediante gráficos para poder llegar a una comprensión más profunda. 
 
 ## KPI 
 
